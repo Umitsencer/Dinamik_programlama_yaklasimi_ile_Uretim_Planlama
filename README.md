@@ -129,10 +129,6 @@ typedef struct {
     int* yol;                   // Optimal yol dizisi
 } UretimCizelgeleyici;
 ```
-
-## 🎥 Demo Videosu
-Projenin çalışmasını gösteren bir demo videosu eklenmesi planlanmaktadır. Video, algoritmanın adım adım nasıl çalıştığını ve sonuçları gösterecektir.
-
 ## ✅ Lisans
 Bu proje eğitim amaçlı geliştirilmiştir.
 
