@@ -1,4 +1,4 @@
-# Üretim Çizelgeleyici
+# Dinamik_programlama_yaklasimi_ile_Uretim_Planlama
 
 Bu proje, n adet işin m adet makinede işlenmesi sırasında toplam işlem süresini (işlem süreleri ve makine geçiş maliyetleri dahil) minimize eden bir dinamik programlama çözümü sunmaktadır.
 
